@@ -1,6 +1,6 @@
 ### Hi, I'm Cepy Hakim
 
-Undergraduate student in **Sports Science** at **Universitas Pendidikan Indonesia (UPI)** with an active focus on **Defensive Cybersecurity**, **Statistical Modeling**, and **Python Engineering**. I build analytical tools that bridge quantitative methods with practical system security.
+Undergraduate student in **Sports Science** and **Mathematics** with an active focus on **Defensive Cybersecurity**, **Statistical Modeling**, and **Python Engineering**. I build analytical tools that bridge quantitative methods with practical system security.
 
 ---
 
